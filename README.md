@@ -1,5 +1,4 @@
-# MedicalTourism- A central portal where a patients can connect to medical tourism providers, hospitals, clinics,hotel services,flight booking services and insurance companies 
-and can all find information they need. 
+# MedicalTourism- A central portal where a patient can connect to medical tourism providers, hospitals, clinics,hotel services,flight booking services and insurance companies and can all find information they need.
 
 https://nileshsingh844.github.io/MedicalTourism-Final/
 
